@@ -6,7 +6,7 @@ This work introduces a Shape Prior Assisted Learning (SPAL) framework that enhan
 
 ##  Dataset
 
-We evaluate our method on public fall detection datasets https://github.com/zhenghaixia2017/Fall-Detection-Dataset
+We evaluate our method on public fall detection dataset： https://github.com/zhenghaixia2017/Fall-Detection-Dataset
 
 ## Training
 
