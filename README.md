@@ -25,7 +25,7 @@ python val.py
 If you find this work useful, please cite:
 
 ```bibtex
-@article{yourname2026shape,
+@article{shapePrior2026Jmg,
   title={Shape Prior Guided Aspect-Ratio Learning for Robust Visual Fall Detection},
   author={Haoxiang Dong, Mingjie Jiang, Yuxun Wu, Nanxi Li, Haixia Zheng, Mingxia Yang},
   journal={ },
