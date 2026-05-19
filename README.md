@@ -17,7 +17,7 @@ python train_fall_detection.py
 ## Testing
 
 ```
-python val.py
+python test.py
 ```
 
 ## Citation
