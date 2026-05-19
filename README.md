@@ -4,6 +4,18 @@
 
 This work introduces a Shape Prior Assisted Learning (SPAL) framework that enhances multi‑scale feature representations. Within this framework, shape prior modules fuse spatial attention and convolution to refine pose features, and an auxiliary supervision signal explicitly predicts the width‑height ratio of each human bounding box, capturing key pose differences between standing and falling states.
 
+## Repository Structure
+
+```text
+├── dataset/                        # Dataset folder
+├── runs/                           
+├── ultralytics/                         
+├── train_fall_detection.py         # Training script
+├── train_pose_prior.py             
+├── test.py                         # Evaluation script
+└── README.md
+```
+
 ##  Dataset
 
 We evaluate our method on public fall detection dataset: https://github.com/zhenghaixia2017/Fall-Detection-Dataset
